@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Runsheng Liu, a fifth-year PhD student at [School of Mathematical Sciences](www.math.pku.edu.cn), [Peking University](pku.edu.cn), supervised by [Prof. Xinyi Li](faculty.bicmr.pku.edu.cn/~xinyili). My research interest is probability theory, with a focus on random fractals.
+I am Runsheng Liu, a fifth-year PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili). My research interest is probability theory, with a focus on random fractals.
 
 My CV can be found [here](../assets/cv.pdf).
 
