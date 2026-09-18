@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
+Papers
 ======
 * R. Liu. An explicit lower bound for the growth exponent of three-dimensional loop-erased random walk. [arXiv:2609.18643](https://arxiv.org/abs/2609.18643).
 * X. Li, R. Liu and D. Shiraishi. Tail exponents of the three-dimensional uniform spanning tree and Abelian sandpile. [arXiv:2605.19419](https://arxiv.org/abs/2605.19419).
