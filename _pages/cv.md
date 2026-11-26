@@ -12,6 +12,7 @@ redirect_from:
 Papers
 ======
 
+* X. Li, R. Liu and Y. Peres. Random walk on an induced component of the uniform spanning forest. [arXiv:2611.34095](https://arxiv.org/abs/2611.34095).
 * R. Liu. Local scaling limit of the four-dimensional uniform spanning tree. [arXiv:2611.03582](https://arxiv.org/abs/2611.03582).
 * Q. Shi, R. Liu, X. Li, M. Li, Y. Deng. Intersection Exponents of Simple Random Walks in Two and Three Dimensions. [arXiv:2609.25968](https://arxiv.org/abs/2609.25968).
 * R. Liu. An explicit lower bound for the growth exponent of three-dimensional loop-erased random walk. [arXiv:2609.18643](https://arxiv.org/abs/2609.18643).
